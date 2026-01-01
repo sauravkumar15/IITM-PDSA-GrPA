@@ -1,4 +1,4 @@
-@@ -0,0 +1,50 @@
+
 """
 Week 1 – Question 3 | PDSA (IIT Madras BS)
 ====================
